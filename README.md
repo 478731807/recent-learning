@@ -1,2 +1,2 @@
 # recent-learning
-first repository
+Hello everyone! This is my first git store. Continue updating...
